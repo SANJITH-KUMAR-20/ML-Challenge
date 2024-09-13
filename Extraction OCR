@@ -1,1 +1,21 @@
+Table of contents
+| OUTLINE
+Approach:
+Query Processing:
+Handling Variability:
+PERFORMING ON SAMPLE_TEST.CSV
+TYPE 1 (pytesseract)
+TYPE 2 (EASYOCR)
+TYPE 3 (KERAS_OCR)
+COMBINE EASY OCR+ TESSERECT
+Class for Extracting Metadata (For a image
+Metadata Extraction
+EASY OCR METADATA EXTRACTION (Sam
+DATAFRAME
+Pytesserect Metadata Extraction
+1. Review Metadata and Extracted Text
+2. Prepare Metadata
+3. Match Images with Metadata
+DETAILS ABOUT TRAIN AND TEST SIZE
+EMBEDDINGS
 
